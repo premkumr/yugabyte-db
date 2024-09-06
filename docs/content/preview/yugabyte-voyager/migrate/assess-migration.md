@@ -12,7 +12,7 @@ menu:
 badges: tp
 type: docs
 ---
-The Voyager Migration Assessment feature streamlines database migration from PostgreSQL and Oracle to YugabyteDB. It analyzes the source database, captures essential metadata, and generates a report with recommended migration strategies and cluster configurations for optimal performance with YugabyteDB.
+The Voyager Migration Assessment feature streamlines database migration from PostgreSQL and Oracle to YugabyteDB. It analyzes the source database, captures essential metadata, and generates a report with recommended migration strategies and cluster configurations for optimal performance with YugabyteDB .
 
 ## Overview
 
